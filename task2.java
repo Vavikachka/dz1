@@ -12,9 +12,7 @@ public class task2 {
                 nums[copyindex] = nums[i];
                 copyindex++;
             }
-
         }
         return copyindex;
     }
-
 }
